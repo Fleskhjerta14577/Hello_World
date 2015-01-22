@@ -1,2 +1,5 @@
 # Hello_World
-I don't really know.
+
+Quick starter project! Seems like a fun place.
+
+I like space!
